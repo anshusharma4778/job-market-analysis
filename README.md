@@ -60,7 +60,7 @@ Charts include:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/job-market-analysis.git
+git clone https://github.com/anshusharma4778/job-market-analysis.git
 cd job-market-analysis
 
 # Install dependencies
@@ -90,6 +90,6 @@ job-market-analysis/
 
 ## 👤 Author
 
-**Your Name**  
+**ANSHU SHARMA**  
 Aspiring Data Analyst | Python • SQL • Power BI  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/anshu-sharma-aa2b62214/) | [GitHub](https://github.com/anshusharma4778)
